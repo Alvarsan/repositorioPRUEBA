@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-demkenfineiowdwefe
-=======
-Estamos en master
->>>>>>> master
+esto que es
